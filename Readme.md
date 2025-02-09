@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **louieManuel238/louieManuel238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-#  Manuel Louie
+## Hi there 👋 I'm
+#   Louie
 
 **`Digital Consumer / Creator / Traveler / Learner / Gamer / etc.`**
+
     I am a builder by day, creating e-commerce stores for businesses, and a barista by night, serving the perfect latte. I have worked in various fields, including manufacturing, customer service, hospitality, IT, and A travel planner on holidays (Japan’s cherry blossoms? Amsterdam’s canals? been there, planned that). I am a lifelong learner, always seeking opportunities to improve my skills—from snowboarding down the Rockies to learning a new language and exploring various fields of study.
 
 ---
@@ -48,7 +48,12 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=louiemanuel238&show_icons=true&theme=rose)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=rose)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louiemanuel238show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=tark" />
+</a>
+
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
