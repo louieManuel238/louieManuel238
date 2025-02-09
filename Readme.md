@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm
 #   Louie
 
-**`Digital Consumer / Creator / Traveler / Learner / Gamer / etc.`**
+**`Digital Consumer / Creator / Traveler / Learner / Gamer / Photographer / etc.`**
 
-    I am a builder by day, creating e-commerce stores for businesses, and a barista by night, serving the perfect latte. I have worked in various fields, including manufacturing, customer service, hospitality, IT, and A travel planner on holidays (Japan’s cherry blossoms? Amsterdam’s canals? been there, planned that). I am a lifelong learner, always seeking opportunities to improve my skills—from snowboarding down the Rockies to learning a new language and exploring various fields of study.
+I am a builder by day, creating e-commerce stores for businesses, and a barista by night, serving the perfect latte. I have worked in various fields, including manufacturing, customer service, hospitality, IT, and A travel planner on holidays (Japan’s cherry blossoms? Amsterdam’s canals? been there, planned that). I am a lifelong learner, always seeking opportunities to improve my skills—from snowboarding down the Rockies to learning a new language and exploring various fields of study.
 
 ---
 
@@ -40,11 +40,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MSSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
-
 <br />
-
-
-#
 
 ### 📊 Stats
 
@@ -55,5 +51,8 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=dark" />
 </a>
 
+[![Louie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=louiemanuel238&theme=dark)](https://github.com/louiemanuel238/github-readme-activity-graph)
+
+# 🤔 What's next? 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
