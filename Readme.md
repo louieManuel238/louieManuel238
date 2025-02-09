@@ -51,7 +51,7 @@ I am a builder by day, creating e-commerce stores for businesses, and a barista 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=dark" />
 </a>
 
-[![Louie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=louiemanuel238&theme=dark)](https://github.com/louiemanuel238/github-readme-activity-graph)
+[![Louie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=louiemanuel238&theme=react-dark)](https://github.com/louiemanuel238/github-readme-activity-graph)
 
 # 🤔 What's next? 
 
