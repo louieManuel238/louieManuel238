@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 ### 📊 Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=louiemanuel238&show_icons=true&theme=rose)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=rose)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
