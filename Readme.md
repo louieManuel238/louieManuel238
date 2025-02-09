@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 
 ### 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louiemanuel238show_icons=true&theme=dark" />
+<a href="https://github.com/louiemanuel238/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louiemanuel238&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/louiemanuel238/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=tark" />
 </a>
 
