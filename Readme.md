@@ -45,10 +45,10 @@ I am a builder by day, creating e-commerce stores for businesses, and a barista 
 ### 📊 Stats
 
 <a href="https://github.com/louiemanuel238/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louiemanuel238&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louiemanuel238&show_icons=true&theme=dark&card_width=320" />
 </a>
 <a href="https://github.com/louiemanuel238/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=dark&card_width=320" />
 </a>
 
 #
@@ -56,5 +56,9 @@ I am a builder by day, creating e-commerce stores for businesses, and a barista 
 [![Louie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=louiemanuel238&theme=react-dark&height=270)](https://github.com/louiemanuel238/github-readme-activity-graph)
 
 # 🤔 What's next? 
+
+
+# Connect With Me
+<a href="https://www.linkedin.com/in/manuellouiegayao/"><img align="left" alt="linkedin" width="10px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />LinkedIn</a>
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
