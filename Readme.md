@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=louiemanuel238&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/louiemanuel238/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=tark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiemanuel238&layout=compact&theme=dark" />
 </a>
 
 
